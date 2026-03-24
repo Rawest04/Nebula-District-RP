@@ -1,0 +1,39 @@
+/index.html
+/attivita.html
+/Auto.html
+/Ville.html
+/packsoldi.html
+/locali/
+   /pussycat/pussycat.html
+   /skye-bar/skye-bar.html
+   /paradise-beach/paradise-beach.html
+   /jamaican/jamaican.html
+   /super-star/super-star.html
+   /uwu-caffe/uwu-caffe.html
+   /bahamas/bahamas.html
+   /maxway/maxway.html
+   /burgershot/burgershot.html
+   /burgershot2/burgershot2.html
+   /ching-king/ching-king.html
+   /wings/wings.html
+   /hustter-s/hustter-s.html
+   /krusty-coffee/krusty-coffee.html
+   /crispy/crispy.html
+   /angels-of-dead-liberty/angels-of-dead-liberty.html
+   /hookahlounge/hookahlounge.html
+   /italianresturant/italianresturant.html
+   /wiwang/wiwang.html
+
+/officine/
+   /graffiti/graffiti.html
+   /mechanic-hell/mechanic-hell.html
+   /liberty-walk/liberty-walk.html
+   /red-line/red-line.html
+   /east-custom/east-custom.html
+   /japanese/japanese.html
+
+/concessionari/
+   /grotti-usato/grotti-usato.html
+
+/armerie/
+   /armeria/armeria.html
